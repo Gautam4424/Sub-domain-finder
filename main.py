@@ -46,7 +46,3 @@ successful_domains = get_domain_components(domain)
 
 sub_finder(successful_domains)
 
-# print("Successful domains:")
-# for d in successful_domains:
-#     print(d)
-# Tetsingngnbsfkjndkvvn
